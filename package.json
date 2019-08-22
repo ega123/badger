@@ -16,6 +16,10 @@
     "face",
     "detection"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ega123/badger"
+  },
   "scripts": {
     "start": "docker-compose up"
   },
